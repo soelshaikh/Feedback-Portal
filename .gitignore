@@ -5,7 +5,7 @@ backend/node_modules/
 # Env files
 *.env
 
-# Build
+# Build folders
 frontend/build/
 backend/dist/
 

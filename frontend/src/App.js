@@ -18,8 +18,8 @@ import { Star, Menu, X } from "lucide-react";
 import toast from "react-hot-toast";
 
 // API URL (same as before)
-// const API_URL = "https://feedback-portal-backend-emqg.onrender.com/api"; // adjust if needed
-const API_URL = "http://localhost:5000/api"; // adjust if needed
+const API_URL = "https://feedback-portal-backend-emqg.onrender.com/api"; // adjust if needed
+// const API_URL = "http://localhost:5000/api"; // adjust if needed
 
 // ------------------------- (Keep your questions and star rating components) -------------------------
 const questions = {
